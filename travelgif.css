@@ -1,0 +1,21 @@
+body{
+	margin:0;
+	padding: 0;
+}
+.container{
+	background-color: #050505;
+ 	height: 1000px;
+ 	width:1000px;
+	display: flex;
+	align-items: center;
+}
+.text{
+	height: 200px;
+	width: 650px;
+	background: url(travel1.gif);
+	background-size: 650px 200px;
+	font-size: 180px;
+	font-family: 'Raleway',sans-serif;
+	-webkit-text-fill-color:transparent;
+	-webkit-background-clip:text;
+}
